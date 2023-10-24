@@ -3,27 +3,27 @@
 <Colección_personal>
 
 <medio_audio>
-  <comprado>
-    <localidad> </localidad>
-    <centro_comercial> </centro_comercial>
-    <fecha_compra> 
-      <día> </día>
-      <mes> </mes>
-      <año> </año>
-    </fecha_compra>
-    <precio> </precio>
-  </comprado>
+	<comprado>
+		<localidad> </localidad>
+    		<centro_comercial> </centro_comercial>
+		<fecha_compra> 
+			<día> </día>
+			<mes> </mes>
+			<año> </año>
+		</fecha_compra>
+		<precio> </precio>
+	</comprado>
 
-  <regalado>
-    <nombre> </nombre>
-    <apellido1> </apellido1>
-    <apellido2_opcional> </apellido2_opcional>
-    <fecha_regalo> 
-      <día> </día>
-      <mes> </mes>
-      <año> </año>
-    </fecha_regalo>
-  </regalado>
+	<regalado>
+		<nombre> </nombre>
+    		<apellido1> </apellido1>
+		<apellido2_opcional> </apellido2_opcional>
+		<fecha_regalo> 
+			<día> </día>
+			<mes> </mes>
+			<año> </año>
+		</fecha_regalo>
+	</regalado>
 
 <copiado>
 <fecha_copia> 
