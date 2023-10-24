@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Colección_personal>
+
+<medio_audio>
+  <comprado>
+    <localidad> </localidad>
+    <centro_comercial> </centro_comercial>
+    <fecha_compra> 
+      <día> </día>
+      <mes> </mes>
+      <año> </año>
+    </fecha_compra>
+    <precio> </precio>
+  </comprado>
+
+  <regalado>
+    <nombre> </nombre>
+    <apellido1> </apellido1>
+    <apellido2_opcional> </apellido2_opcional>
+    <fecha_regalo> 
+      <día> </día>
+      <mes> </mes>
+      <año> </año>
+    </fecha_regalo>
+  </regalado>
+
+<copiado>
+<fecha_copia> 
+<día> </día>
+<mes> </mes>
+<año> </año>
+</fecha_copia>
+</copiado>
+
+<estudio_grabación> <estudio_grabación>
+<año_grabación> <año_grabación>
+<intérprete_grabación> 
+<nombre_artístico> </nombre_artístico>
+</intérprete_grabación>
+<título_disco> </título_disco>
+<número_pistas_disco> </número_pistas_disco>
+<título_pistas_disco> </título_pistas_disco>
+<duración_pistas_disco_en_segundos> </duración_pistas_disco_en_segundos>
+<estilo_músical_grabación>
+	<antigua> </antigua>
+	<barroca> </barroca>
+	<clásica> </clásica>
+	<romántica> </romántica>
+	<contemporánea> </contemporánea>
+	<pop> </pop>
+	<rock> </rock>
+	<disco> </disco>
+	<funky> </funky>
+	<electrónica> </electrónica>
+	<reaggy> </reaggy>
+	<experimental> </experimental>
+	<folc> </folc>
+	<new-age> </new-age>
+	<otros> </otros>
+</estilo_músical_grabación>
+
+</medio_audio>
+
+<medio_vídeo>
+<comprado>
+<localidad> </localidad>
+<centro_comercial> </centro_comercial>
+<fecha_compra> 
+<día> </día>
+<mes> </mes>
+<año> </año>
+</fecha_compra>
+<precio> </precio>
+</comprado>
+
+<regalado>
+<nombre> </nombre>
+<apellido1> </apellido1>
+<apellido2_opcional> </apellido2_opcional>
+<fecha_regalo> 
+<día> </día>
+<mes> </mes>
+<año> </año>
+</fecha_regalo>
+</regalado>
+
+<copiado>
+<fecha_copia> 
+<día> </día>
+<mes> </mes>
+<año> </año>
+</fecha_copia>
+</copiado>
+
+<localizaciones_grabación> </localizaciones_grabación> 
+<año_grabación> <año_grabación>
+<director_filme>
+<nombre> </nombre>
+<apellido1> </apellido1>
+<apellido2_opcional> </apellido2_opcional>	
+</director_filme>
+<actor_principal_filme>
+<nombre> </nombre>
+<apellido1> </apellido1>
+<apellido2_opcional> </apellido2_opcional>	
+</actor_principal_filme>
+<actriz_principal_filme>
+<nombre> </nombre>
+<apellido1> </apellido1>
+<apellido2_opcional> </apellido2_opcional>	
+</actriz_principal_filme>
+<actores_secundarios_filme>
+<nombre> </nombre>
+<apellido1> </apellido1>
+<apellido2_opcional> </apellido2_opcional>	
+</actores_secundarios_filme>
+<compositor_banda_sonora_filme>
+<nombre> </nombre>
+<apellido1> </apellido1>
+<apellido2_opcional> </apellido2_opcional>	
+</compositor_banda_sonora_filme>
+<guionista_filme>
+<nombre> </nombre>
+<apellido1> </apellido1>
+<apellido2_opcional> </apellido2_opcional>	
+</guionista_filme>
+<productor_filme>
+<nombre> </nombre>
+<apellido1> </apellido1>
+<apellido2_opcional> </apellido2_opcional>	
+</productor_filme>
+<título_película> </título_película>
+<lenguaje_original> <lenguaje_original>
+<lenguaje_doblajes>
+
+</lenguaje_doblajes>
+
+<categoría_dramática>
+<drama> </drama>
+<comedia> </comedia>
+<romántica> </romántica>
+<aventuras> </aventuras>
+<ciencia_ficción> </ciencia_ficción>
+<terror> </terror>
+<fantasía> </fantasía>
+<psicológica_thriller> </psicológica_thriller>
+</categoría_dramática>
+</medio_vídeo>
+<medio_texto>
+<comprado>
+<localidad> </localidad>
+<centro_comercial> </centro_comercial>
+<fecha_compra> 
+<día> </día>
+<mes> </mes>
+<año> </año>
+</fecha_compra>
+<precio> </precio>
+</comprado>
+
+<regalado>
+<nombre> </nombre>
+<apellido1> </apellido1>
+<apellido2_opcional> </apellido2_opcional>
+<fecha_regalo> 
+<día> </día>
+<mes> </mes>
+<año> </año>
+</fecha_regalo>
+</regalado>
+
+<copiado>
+<fecha_copia> 
+<día> </día>
+<mes> </mes>
+<año> </año>
+</fecha_copia>
+</copiado>
+
+<libro> 
+	<fecha_publicación>
+		<año> </año>
+	</fecha_publicación>
+	<autor> 
+<nombre> </nombre>
+<apellido1> </apellido1>
+<apellido2_opcional> </apellido2_opcional>
+<autor>
+	<título> </título>
+	<subtítulo> </subtítulo>
+	<editorial> </editorial>
+	<número_edición> </número_edición>
+	<colección> </colección>
+	<número> </número>
+	<ciudad_publicación> </ciudad_publicación>
+	<lenguaje> </lenguaje>
+		<lenguaje_original> </lenguaje_original>
+		<lenguaje_no_original>
+			<traductor>
+				<nombre> </nombre>
+<apellido1> </apellido1>
+<apellido2_opcional_opcional> </apellido2_opcional_opcional>
+</traductor>
+		</lenguaje__no_original>
+	<tipo>
+		<novela> </novela>
+		<cuento> </cuento>
+		<poesía> </poesía>
+		<otros> </otros>
+</tipo>
+	
+</libro>
+<revista> 
+	<fecha_publicación>
+		<mes> </mes>
+		<año> </año>
+	</fecha_publicación>
+	<título> </título>
+	<subtítulo> </subtítulo>
+	<número_ejemplar> </número_ejemplar>
+	<editorial> </editorial>
+	<número_edición> </número_edición>
+	<ciudad_publicación> </ciudad_publicación>
+	<tipo>
+<ciencia> </ciencia>
+<tecnología> </tecnología>
+<electrónica> </electrónica>
+<informática> </informática>
+<geografía> </geografía>
+<historia> </historia>
+<política> </política>
+<economía> </economía>
+<artes> </artes>
+<arquitectura> </arquitectura>
+<diseño> </diseño>
+<música> </música>
+<literatura> </literatura>
+<cine> </cine>
+<otros> </otros>
+	</tipo>
+</revista>
+
+</medio_texto>
+<medio_software>
+<comprado>
+<localidad> </localidad>
+<centro_comercial> </centro_comercial>
+<fecha_compra> 
+<día> </día>
+<mes> </mes>
+<año> </año>
+</fecha_compra>
+<precio> </precio>
+</comprado>
+
+<regalado>
+<nombre> </nombre>
+<apellido1> </apellido1>
+<apellido2_opcional> </apellido2_opcional>
+<fecha_regalo> 
+<día> </día>
+<mes> </mes>
+<año> </año>
+</fecha_regalo>
+</regalado>
+
+<copiado>
+<fecha_copia> 
+<día> </día>
+<mes> </mes>
+<año> </año>
+</fecha_copia>
+</copiado>
+
+<fecha_salida_año> </fecha_salida_año>
+<empresa> </empresa>
+<título_versión> </título_versión>
+<tipo>
+	<sistema_operativo> </sistema_operativo>
+	<compilador> </compilador>
+	<intérprete> </intérprete>
+	<base_de_datos> </base_de_datos>
+	<paquete_ofimático> </paquete_ofimático>
+	<paquete_de_utilidades> </paquete_de_utilidades>
+	<videojuego> </videojuego>
+	<otros> </otros>
+</tipo>
+<medio_software>
+
+</Colección_personal>
