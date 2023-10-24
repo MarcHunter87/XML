@@ -5,7 +5,7 @@
 <medio_audio>
 	<comprado>
 		<localidad> </localidad>
-    		<centro_comercial> </centro_comercial>
+    	<centro_comercial> </centro_comercial>
 		<fecha_compra> 
 			<día> </día>
 			<mes> </mes>
@@ -16,7 +16,7 @@
 
 	<regalado>
 		<nombre> </nombre>
-    		<apellido1> </apellido1>
+    	<apellido1> </apellido1>
 		<apellido2_opcional> </apellido2_opcional>
 		<fecha_regalo> 
 			<día> </día>
@@ -25,13 +25,13 @@
 		</fecha_regalo>
 	</regalado>
 
-<copiado>
-<fecha_copia> 
-<día> </día>
-<mes> </mes>
-<año> </año>
-</fecha_copia>
-</copiado>
+	<copiado>
+		<fecha_copia> 
+			<día> </día>
+			<mes> </mes>
+			<año> </año>
+		</fecha_copia>
+	</copiado>
 
 <estudio_grabación> <estudio_grabación>
 <año_grabación> <año_grabación>
