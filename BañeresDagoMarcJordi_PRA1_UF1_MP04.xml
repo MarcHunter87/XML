@@ -194,99 +194,100 @@
 			<numero_edicion> </numero_edicion>
 			<coleccion> </coleccion>
 			<numero> </numero>
-	<ciudad_publicación> </ciudad_publicación>
-	<lenguaje> </lenguaje>
-		<lenguaje_original> </lenguaje_original>
-		<lenguaje_no_original>
-			<traductor>
-				<nombre> </nombre>
-<apellido1> </apellido1>
-<apellido2_opcional_opcional> </apellido2_opcional_opcional>
-</traductor>
-		</lenguaje__no_original>
-	<tipo>
-		<novela> </novela>
-		<cuento> </cuento>
-		<poesía> </poesía>
-		<otros> </otros>
-</tipo>
+			<ciudad_publicacion> </ciudad_publicacion>
+			<lenguaje> </lenguaje>
+			<lenguaje_original> </lenguaje_original>
+			<lenguaje_no_original>
+				<traductor>
+					<nombre> </nombre>
+					<apellido1> </apellido1>
+					<apellido2_opcional_opcional> </apellido2_opcional_opcional>
+				</traductor>
+			</lenguaje__no_original>
+			<tipo>
+				<novela> </novela>
+				<cuento> </cuento>
+				<poesia> </poesia>
+				<otros> </otros>
+			</tipo>	
+		</libro>
+
+		<revista> 
+			<fecha_publicacion>
+				<mes> </mes>
+				<any> </any>
+			</fecha_publicacion>
+			<titulo> </titulo>
+			<subtitulo> </subtitulo>
+			<numero_ejemplar> </numero_ejemplar>
+			<editorial> </editorial>
+			<numero_edicion> </numero_edicion>
+			<ciudad_publicacion> </ciudad_publicacion>
+			<tipo>
+				<ciencia> </ciencia>
+				<tecnologia> </tecnologia>
+				<electronica> </electronica>
+				<informatica> </informatica>
+				<geografia> </geografia>
+				<historia> </historia>
+				<politica> </politica>
+				<economia> </economia>
+				<artes> </artes>
+				<arquitectura> </arquitectura>
+				<diseny> </diseny>
+				<musica> </musica>
+				<literatura> </literatura>
+				<cine> </cine>
+				<otros> </otros>
+			</tipo>
+		</revista>
+
+	</medio_texto>
 	
-</libro>
-<revista> 
-	<fecha_publicación>
-		<mes> </mes>
-		<año> </año>
-	</fecha_publicación>
-	<título> </título>
-	<subtítulo> </subtítulo>
-	<número_ejemplar> </número_ejemplar>
-	<editorial> </editorial>
-	<número_edición> </número_edición>
-	<ciudad_publicación> </ciudad_publicación>
-	<tipo>
-<ciencia> </ciencia>
-<tecnología> </tecnología>
-<electrónica> </electrónica>
-<informática> </informática>
-<geografía> </geografía>
-<historia> </historia>
-<política> </política>
-<economía> </economía>
-<artes> </artes>
-<arquitectura> </arquitectura>
-<diseño> </diseño>
-<música> </música>
-<literatura> </literatura>
-<cine> </cine>
-<otros> </otros>
-	</tipo>
-</revista>
+	<medio_software>
+		<comprado>
+			<localidad> </localidad>
+    		<centro_comercial> </centro_comercial>
+			<fecha_compra> 
+				<dia> </dia>
+				<mes> </mes>
+				<any> </any>
+			</fecha_compra>
+			<precio> </precio>
+		</comprado>
 
-</medio_texto>
-<medio_software>
-<comprado>
-<localidad> </localidad>
-<centro_comercial> </centro_comercial>
-<fecha_compra> 
-<día> </día>
-<mes> </mes>
-<año> </año>
-</fecha_compra>
-<precio> </precio>
-</comprado>
+		<regalado>
+			<nombre> </nombre>
+    		<apellido1> </apellido1>
+			<apellido2_opcional> </apellido2_opcional>
+			<fecha_regalo> 
+				<dia> </dia>
+				<mes> </mes>
+				<any> </any>
+			</fecha_regalo>
+		</regalado>
 
-<regalado>
-<nombre> </nombre>
-<apellido1> </apellido1>
-<apellido2_opcional> </apellido2_opcional>
-<fecha_regalo> 
-<día> </día>
-<mes> </mes>
-<año> </año>
-</fecha_regalo>
-</regalado>
+		<copiado>
+			<fecha_copia> 
+				<dia> </dia>
+				<mes> </mes>
+				<any> </any>
+			</fecha_copia>
+		</copiado>
 
-<copiado>
-<fecha_copia> 
-<día> </día>
-<mes> </mes>
-<año> </año>
-</fecha_copia>
-</copiado>
+		<fecha_salida_any> </fecha_salida_any>
+		<empresa> </empresa>
+		<titulo_version> </titulo_version>
+		<tipo>
+			<sistema_operativo> </sistema_operativo>
+			<compilador> </compilador>
+			<interprete> </interprete>
+			<base_de_datos> </base_de_datos>
+			<paquete_ofimatico> </paquete_ofimatico>
+			<paquete_de_utilidades> </paquete_de_utilidades>
+			<videojuego> </videojuego>
+			<otros> </otros>
+		</tipo>
+	<medio_software>
 
-<fecha_salida_año> </fecha_salida_año>
-<empresa> </empresa>
-<título_versión> </título_versión>
-<tipo>
-	<sistema_operativo> </sistema_operativo>
-	<compilador> </compilador>
-	<intérprete> </intérprete>
-	<base_de_datos> </base_de_datos>
-	<paquete_ofimático> </paquete_ofimático>
-	<paquete_de_utilidades> </paquete_de_utilidades>
-	<videojuego> </videojuego>
-	<otros> </otros>
-</tipo>
-<medio_software>
-
-</Colección_personal>
+</Coleccion_personal>
