@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ColecciOn_personal>
+<Coleccion_personal>
 
 	<medio_audio>
 		<comprado>
@@ -33,8 +33,8 @@
 			</fecha_copia>
 		</copiado>
 
-		<estudio_grabacion> <estudio_grabacion>
-		<any_grabacion> <any_grabacion>
+		<estudio_grabacion> </estudio_grabacion>
+		<any_grabacion> </any_grabacion>
 		<interprete_grabacion> 
 			<nombre_artistico> </nombre_artistico>
 		</interprete_grabacion>
@@ -94,7 +94,7 @@
 		</copiado>
 
 		<localizaciones_grabacion> </localizaciones_grabacion> 
-		<any_grabacion> <any_grabacion>
+		<any_grabacion> </any_grabacion>
 		<director_filme>
 			<nombre> </nombre>
 			<apellido1> </apellido1>
@@ -131,7 +131,7 @@
 			<apellido2_opcional> </apellido2_opcional>	
 		</productor_filme>
 		<titulo_pelicula> </titulo_pelicula>
-		<lenguaje_original> <lenguaje_original>
+		<lenguaje_original> </lenguaje_original>
 		<lenguaje_doblajes>
 
 		</lenguaje_doblajes>
@@ -203,7 +203,7 @@
 					<apellido1> </apellido1>
 					<apellido2_opcional_opcional> </apellido2_opcional_opcional>
 				</traductor>
-			</lenguaje__no_original>
+			</lenguaje_no_original>
 			<tipo>
 				<novela> </novela>
 				<cuento> </cuento>
@@ -288,6 +288,6 @@
 			<videojuego> </videojuego>
 			<otros> </otros>
 		</tipo>
-	<medio_software>
+	</medio_software>
 
 </Coleccion_personal>
