@@ -2,8 +2,9 @@
 
 <Coleccion_personal>
 
-	<medio naturaleza="audio" formato="disco, cassette, compact-disco" version="original o copiado">
-		<comprado>
+	<medio naturaleza="audio" formato="disco, cassette, compact-disco" version="original">
+		
+        <comprado>
 			<localidad> </localidad>
     		<centro_comercial> </centro_comercial>
 			<fecha_compra> 
@@ -14,7 +15,38 @@
 			<precio> </precio>
 		</comprado>
 
-		<regalado>
+		<estudio_grabacion> </estudio_grabacion>
+		<any_grabacion> </any_grabacion>
+		<interprete_grabacion> 
+			<nombre_artistico> </nombre_artistico>
+		</interprete_grabacion>
+		<titulo_disco> </titulo_disco>
+		<numero_pistas_disco> </numero_pistas_disco>
+		<titulo_pistas_disco> </titulo_pistas_disco>
+		<duracion_pistas_disco_en_segundos> </duracion_pistas_disco_en_segundos>
+		<estilo_musical_grabacion>
+			<antigua> </antigua>
+			<barroca> </barroca>
+			<clasica> </clasica>
+			<romantica> </romantica>
+			<contemporanea> </contemporanea>
+			<pop> </pop>
+			<rock> </rock>
+			<disco> </disco>
+			<funky> </funky>
+			<electronica> </electronica>
+			<reaggy> </reaggy>
+			<experimental> </experimental>
+			<folc> </folc>
+			<new-age> </new-age>
+			<otros> </otros>
+		</estilo_musical_grabacion>
+
+	</medio>
+    
+    <medio naturaleza="audio" formato="disco, cassette, compact-disco" version="original o copia">
+	
+        <regalado>
 			<nombre> </nombre>
     		<apellido1> </apellido1>
 			<apellido2_opcional> </apellido2_opcional>
@@ -61,9 +93,50 @@
 		</estilo_musical_grabacion>
 
 	</medio>
+    
+     <medio naturaleza="audio" formato="disco, cassette, compact-disco" version="copia">
+	
+		<copiado>
+			<fecha_copia> 
+				<dia> </dia>
+				<mes> </mes>
+				<any> </any>
+			</fecha_copia>
+		</copiado>
 
-	<medio naturaleza="video" formato="vhs, dvd, blue-ray" version="original o copiado">
-		<comprado>
+		<estudio_grabacion> </estudio_grabacion>
+		<any_grabacion> </any_grabacion>
+		<interprete_grabacion> 
+			<nombre_artistico> </nombre_artistico>
+		</interprete_grabacion>
+		<titulo_disco> </titulo_disco>
+		<numero_pistas_disco> </numero_pistas_disco>
+		<titulo_pistas_disco> </titulo_pistas_disco>
+		<duracion_pistas_disco_en_segundos> </duracion_pistas_disco_en_segundos>
+		<estilo_musical_grabacion>
+			<antigua> </antigua>
+			<barroca> </barroca>
+			<clasica> </clasica>
+			<romantica> </romantica>
+			<contemporanea> </contemporanea>
+			<pop> </pop>
+			<rock> </rock>
+			<disco> </disco>
+			<funky> </funky>
+			<electronica> </electronica>
+			<reaggy> </reaggy>
+			<experimental> </experimental>
+			<folc> </folc>
+			<new-age> </new-age>
+			<otros> </otros>
+		</estilo_musical_grabacion>
+
+	</medio>
+
+
+	<medio naturaleza="video" formato="vhs, dvd, blue-ray" version="original">
+		
+        <comprado>
 			<localidad> </localidad>
     		<centro_comercial> </centro_comercial>
 			<fecha_compra> 
@@ -73,6 +146,63 @@
 			</fecha_compra>
 			<precio> </precio>
 		</comprado>
+
+		<localizaciones_grabacion> </localizaciones_grabacion> 
+		<any_grabacion> </any_grabacion>
+		<director_filme>
+			<nombre> </nombre>
+			<apellido1> </apellido1>
+			<apellido2_opcional> </apellido2_opcional>	
+		</director_filme>
+		<actor_principal_filme>
+			<nombre> </nombre>
+			<apellido1> </apellido1>
+			<apellido2_opcional> </apellido2_opcional>	
+		</actor_principal_filme>
+		<actriz_principal_filme>
+			<nombre> </nombre>
+			<apellido1> </apellido1>
+			<apellido2_opcional> </apellido2_opcional>	
+		</actriz_principal_filme>
+		<actores_secundarios_filme>
+			<nombre> </nombre>
+			<apellido1> </apellido1>
+			<apellido2_opcional> </apellido2_opcional>	
+		</actores_secundarios_filme>
+		<compositor_banda_sonora_filme>
+			<nombre> </nombre>
+			<apellido1> </apellido1>
+			<apellido2_opcional> </apellido2_opcional>	
+		</compositor_banda_sonora_filme>
+		<guionista_filme>
+			<nombre> </nombre>
+			<apellido1> </apellido1>
+			<apellido2_opcional> </apellido2_opcional>	
+		</guionista_filme>
+		<productor_filme>
+			<nombre> </nombre>
+			<apellido1> </apellido1>
+			<apellido2_opcional> </apellido2_opcional>	
+		</productor_filme>
+		<titulo_pelicula> </titulo_pelicula>
+		<lenguaje_original> </lenguaje_original>
+		<lenguaje_doblajes>
+
+		</lenguaje_doblajes>
+
+		<categoria_dramatica>
+			<drama> </drama>
+			<comedia> </comedia>
+			<romantica> </romantica>
+			<aventuras> </aventuras>
+			<ciencia_ficcion> </ciencia_ficcion>
+			<terror> </terror>
+			<fantasia> </fantasia>
+			<psicologica_thriller> </psicologica_thriller>
+		</categoria_dramatica>
+	</medio>
+    
+    <medio naturaleza="video" formato="vhs, dvd, blue-ray" version="original o copia">
 
 		<regalado>
 			<nombre> </nombre>
@@ -84,6 +214,63 @@
 				<any> </any>
 			</fecha_regalo>
 		</regalado>
+
+		<localizaciones_grabacion> </localizaciones_grabacion> 
+		<any_grabacion> </any_grabacion>
+		<director_filme>
+			<nombre> </nombre>
+			<apellido1> </apellido1>
+			<apellido2_opcional> </apellido2_opcional>	
+		</director_filme>
+		<actor_principal_filme>
+			<nombre> </nombre>
+			<apellido1> </apellido1>
+			<apellido2_opcional> </apellido2_opcional>	
+		</actor_principal_filme>
+		<actriz_principal_filme>
+			<nombre> </nombre>
+			<apellido1> </apellido1>
+			<apellido2_opcional> </apellido2_opcional>	
+		</actriz_principal_filme>
+		<actores_secundarios_filme>
+			<nombre> </nombre>
+			<apellido1> </apellido1>
+			<apellido2_opcional> </apellido2_opcional>	
+		</actores_secundarios_filme>
+		<compositor_banda_sonora_filme>
+			<nombre> </nombre>
+			<apellido1> </apellido1>
+			<apellido2_opcional> </apellido2_opcional>	
+		</compositor_banda_sonora_filme>
+		<guionista_filme>
+			<nombre> </nombre>
+			<apellido1> </apellido1>
+			<apellido2_opcional> </apellido2_opcional>	
+		</guionista_filme>
+		<productor_filme>
+			<nombre> </nombre>
+			<apellido1> </apellido1>
+			<apellido2_opcional> </apellido2_opcional>	
+		</productor_filme>
+		<titulo_pelicula> </titulo_pelicula>
+		<lenguaje_original> </lenguaje_original>
+		<lenguaje_doblajes>
+
+		</lenguaje_doblajes>
+
+		<categoria_dramatica>
+			<drama> </drama>
+			<comedia> </comedia>
+			<romantica> </romantica>
+			<aventuras> </aventuras>
+			<ciencia_ficcion> </ciencia_ficcion>
+			<terror> </terror>
+			<fantasia> </fantasia>
+			<psicologica_thriller> </psicologica_thriller>
+		</categoria_dramatica>
+	</medio>
+    
+    <medio naturaleza="video" formato="vhs, dvd, blue-ray" version="copia">
 
 		<copiado>
 			<fecha_copia> 
@@ -148,8 +335,9 @@
 		</categoria_dramatica>
 	</medio>
 
-	<medio naturaleza="texto" formato="libro, revista" version="original o copiado">
-		<comprado>
+	<medio naturaleza="texto" formato="libro, revista" version="original">
+	
+        <comprado>
 			<localidad> </localidad>
     		<centro_comercial> </centro_comercial>
 			<fecha_compra> 
@@ -159,6 +347,73 @@
 			</fecha_compra>
 			<precio> </precio>
 		</comprado>
+
+		<libro> 
+			<fecha_publicacion>
+				<any> </any>
+			</fecha_publicacion>
+			<autor> 
+				<nombre> </nombre>
+				<apellido1> </apellido1>
+				<apellido2_opcional> </apellido2_opcional>
+			</autor>
+			<titulo> </titulo>
+			<subtitulo> </subtitulo>
+			<editorial> </editorial>
+			<numero_edicion> </numero_edicion>
+			<coleccion> </coleccion>
+			<numero> </numero>
+			<ciudad_publicacion> </ciudad_publicacion>
+			<lenguaje> </lenguaje>
+			<lenguaje_original> </lenguaje_original>
+			<lenguaje_no_original>
+				<traductor>
+					<nombre> </nombre>
+					<apellido1> </apellido1>
+					<apellido2_opcional_opcional> </apellido2_opcional_opcional>
+				</traductor>
+			</lenguaje_no_original>
+			<tipo>
+				<novela> </novela>
+				<cuento> </cuento>
+				<poesia> </poesia>
+				<otros> </otros>
+			</tipo>	
+		</libro>
+
+		<revista> 
+			<fecha_publicacion>
+				<mes> </mes>
+				<any> </any>
+			</fecha_publicacion>
+			<titulo> </titulo>
+			<subtitulo> </subtitulo>
+			<numero_ejemplar> </numero_ejemplar>
+			<editorial> </editorial>
+			<numero_edicion> </numero_edicion>
+			<ciudad_publicacion> </ciudad_publicacion>
+			<tipo>
+				<ciencia> </ciencia>
+				<tecnologia> </tecnologia>
+				<electronica> </electronica>
+				<informatica> </informatica>
+				<geografia> </geografia>
+				<historia> </historia>
+				<politica> </politica>
+				<economia> </economia>
+				<artes> </artes>
+				<arquitectura> </arquitectura>
+				<diseny> </diseny>
+				<musica> </musica>
+				<literatura> </literatura>
+				<cine> </cine>
+				<otros> </otros>
+			</tipo>
+		</revista>
+
+	</medio>
+    
+    <medio naturaleza="texto" formato="libro, revista" version="original o copia">
 
 		<regalado>
 			<nombre> </nombre>
@@ -170,6 +425,73 @@
 				<any> </any>
 			</fecha_regalo>
 		</regalado>
+
+		<libro> 
+			<fecha_publicacion>
+				<any> </any>
+			</fecha_publicacion>
+			<autor> 
+				<nombre> </nombre>
+				<apellido1> </apellido1>
+				<apellido2_opcional> </apellido2_opcional>
+			</autor>
+			<titulo> </titulo>
+			<subtitulo> </subtitulo>
+			<editorial> </editorial>
+			<numero_edicion> </numero_edicion>
+			<coleccion> </coleccion>
+			<numero> </numero>
+			<ciudad_publicacion> </ciudad_publicacion>
+			<lenguaje> </lenguaje>
+			<lenguaje_original> </lenguaje_original>
+			<lenguaje_no_original>
+				<traductor>
+					<nombre> </nombre>
+					<apellido1> </apellido1>
+					<apellido2_opcional_opcional> </apellido2_opcional_opcional>
+				</traductor>
+			</lenguaje_no_original>
+			<tipo>
+				<novela> </novela>
+				<cuento> </cuento>
+				<poesia> </poesia>
+				<otros> </otros>
+			</tipo>	
+		</libro>
+
+		<revista> 
+			<fecha_publicacion>
+				<mes> </mes>
+				<any> </any>
+			</fecha_publicacion>
+			<titulo> </titulo>
+			<subtitulo> </subtitulo>
+			<numero_ejemplar> </numero_ejemplar>
+			<editorial> </editorial>
+			<numero_edicion> </numero_edicion>
+			<ciudad_publicacion> </ciudad_publicacion>
+			<tipo>
+				<ciencia> </ciencia>
+				<tecnologia> </tecnologia>
+				<electronica> </electronica>
+				<informatica> </informatica>
+				<geografia> </geografia>
+				<historia> </historia>
+				<politica> </politica>
+				<economia> </economia>
+				<artes> </artes>
+				<arquitectura> </arquitectura>
+				<diseny> </diseny>
+				<musica> </musica>
+				<literatura> </literatura>
+				<cine> </cine>
+				<otros> </otros>
+			</tipo>
+		</revista>
+
+	</medio>
+    
+    <medio naturaleza="texto" formato="libro, revista" version="copia">
 
 		<copiado>
 			<fecha_copia> 
@@ -244,8 +566,9 @@
 
 	</medio>
 	
-	<medio naturaleza="software" formato="disquette, compact-disco, dvd" version="original o copiado">
-		<comprado>
+	<medio naturaleza="software" formato="disquette, compact-disco, dvd" version="original">
+		
+        <comprado>
 			<localidad> </localidad>
     		<centro_comercial> </centro_comercial>
 			<fecha_compra> 
@@ -255,6 +578,23 @@
 			</fecha_compra>
 			<precio> </precio>
 		</comprado>
+
+		<fecha_salida_any> </fecha_salida_any>
+		<empresa> </empresa>
+		<titulo_version> </titulo_version>
+		<tipo>
+			<sistema_operativo> </sistema_operativo>
+			<compilador> </compilador>
+			<interprete> </interprete>
+			<base_de_datos> </base_de_datos>
+			<paquete_ofimatico> </paquete_ofimatico>
+			<paquete_de_utilidades> </paquete_de_utilidades>
+			<videojuego> </videojuego>
+			<otros> </otros>
+		</tipo>
+	</medio>
+    
+    <medio naturaleza="software" formato="disquette, compact-disco, dvd" version="original o copia">
 
 		<regalado>
 			<nombre> </nombre>
@@ -266,6 +606,23 @@
 				<any> </any>
 			</fecha_regalo>
 		</regalado>
+
+		<fecha_salida_any> </fecha_salida_any>
+		<empresa> </empresa>
+		<titulo_version> </titulo_version>
+		<tipo>
+			<sistema_operativo> </sistema_operativo>
+			<compilador> </compilador>
+			<interprete> </interprete>
+			<base_de_datos> </base_de_datos>
+			<paquete_ofimatico> </paquete_ofimatico>
+			<paquete_de_utilidades> </paquete_de_utilidades>
+			<videojuego> </videojuego>
+			<otros> </otros>
+		</tipo>
+	</medio>
+    
+    <medio naturaleza="software" formato="disquette, compact-disco, dvd" version="copia">
 
 		<copiado>
 			<fecha_copia> 
