@@ -2,7 +2,7 @@
 
 <Coleccion_personal>
 
-	<medio_audio>
+	<medio naturaleza="audio" formato="disco, cassette, compact-disco" version="original o copiado">
 		<comprado>
 			<localidad> </localidad>
     		<centro_comercial> </centro_comercial>
@@ -60,9 +60,9 @@
 			<otros> </otros>
 		</estilo_musical_grabacion>
 
-	</medio_audio>
+	</medio>
 
-	<medio_video>
+	<medio naturaleza="video" formato="vhs, dvd, blue-ray" version="original o copiado">
 		<comprado>
 			<localidad> </localidad>
     		<centro_comercial> </centro_comercial>
@@ -146,9 +146,9 @@
 			<fantasia> </fantasia>
 			<psicologica_thriller> </psicologica_thriller>
 		</categoria_dramatica>
-	</medio_video>
+	</medio>
 
-	<medio_texto>
+	<medio naturaleza="texto" formato="libro, revista" version="original o copiado">
 		<comprado>
 			<localidad> </localidad>
     		<centro_comercial> </centro_comercial>
@@ -242,9 +242,9 @@
 			</tipo>
 		</revista>
 
-	</medio_texto>
+	</medio>
 	
-	<medio_software>
+	<medio naturaleza="software" formato="disquette, compact-disco, dvd" version="original o copiado">
 		<comprado>
 			<localidad> </localidad>
     		<centro_comercial> </centro_comercial>
@@ -288,6 +288,6 @@
 			<videojuego> </videojuego>
 			<otros> </otros>
 		</tipo>
-	</medio_software>
+	</medio>
 
 </Coleccion_personal>
