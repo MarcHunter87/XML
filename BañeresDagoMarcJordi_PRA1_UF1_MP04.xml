@@ -57,14 +57,6 @@
 			</fecha_regalo>
 		</regalado>
 
-		<copiado>
-			<fecha_copia> 
-				<dia> </dia>
-				<mes> </mes>
-				<any> </any>
-			</fecha_copia>
-		</copiado>
-
 		<estudio_grabacion> </estudio_grabacion>
 		<any_grabacion> </any_grabacion>
 		<interprete_grabacion> 
@@ -132,7 +124,6 @@
 		</estilo_musical_grabacion>
 
 	</medio>
-
 
 	<medio naturaleza="video" formato="vhs, dvd, blue-ray" version="original">
 		
