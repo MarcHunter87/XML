@@ -410,7 +410,7 @@
         
 	</medio>
 
-	<medio naturaleza="texto" formato="libro, revista" version="original">
+	<medio naturaleza="texto" formato="libro" version="original">
 	
         <comprado>
 			<localidad> </localidad>
@@ -423,72 +423,40 @@
 			<precio> </precio>
 		</comprado>
 
-		<libro> 
-			<fecha_publicacion>
-				<any> </any>
-			</fecha_publicacion>
-			<autor> 
+		<fecha_publicacion>
+			<any> </any>
+		</fecha_publicacion>
+		<autor> 
+			<nombre> </nombre>
+			<apellido1> </apellido1>
+			<apellido2_opcional> </apellido2_opcional>
+		</autor>
+		<titulo> </titulo>
+		<subtitulo> </subtitulo>
+		<editorial> </editorial>
+		<numero_edicion> </numero_edicion>
+		<coleccion> </coleccion>
+		<numero> </numero>
+		<ciudad_publicacion> </ciudad_publicacion>
+		<lenguaje> </lenguaje>
+		<lenguaje_original> </lenguaje_original>
+		<lenguaje_no_original>
+			<traductor>
 				<nombre> </nombre>
 				<apellido1> </apellido1>
-				<apellido2_opcional> </apellido2_opcional>
-			</autor>
-			<titulo> </titulo>
-			<subtitulo> </subtitulo>
-			<editorial> </editorial>
-			<numero_edicion> </numero_edicion>
-			<coleccion> </coleccion>
-			<numero> </numero>
-			<ciudad_publicacion> </ciudad_publicacion>
-			<lenguaje> </lenguaje>
-			<lenguaje_original> </lenguaje_original>
-			<lenguaje_no_original>
-				<traductor>
-					<nombre> </nombre>
-					<apellido1> </apellido1>
-					<apellido2_opcional_opcional> </apellido2_opcional_opcional>
-				</traductor>
-			</lenguaje_no_original>
-			<tipo>
-				<novela> </novela>
-				<cuento> </cuento>
-				<poesia> </poesia>
-				<otros> </otros>
-			</tipo>	
-		</libro>
-
-		<revista> 
-			<fecha_publicacion>
-				<mes> </mes>
-				<any> </any>
-			</fecha_publicacion>
-			<titulo> </titulo>
-			<subtitulo> </subtitulo>
-			<numero_ejemplar> </numero_ejemplar>
-			<editorial> </editorial>
-			<numero_edicion> </numero_edicion>
-			<ciudad_publicacion> </ciudad_publicacion>
-			<tipo>
-				<ciencia> </ciencia>
-				<tecnologia> </tecnologia>
-				<electronica> </electronica>
-				<informatica> </informatica>
-				<geografia> </geografia>
-				<historia> </historia>
-				<politica> </politica>
-				<economia> </economia>
-				<artes> </artes>
-				<arquitectura> </arquitectura>
-				<diseny> </diseny>
-				<musica> </musica>
-				<literatura> </literatura>
-				<cine> </cine>
-				<otros> </otros>
-			</tipo>
-		</revista>
+				<apellido2_opcional_opcional> </apellido2_opcional_opcional>
+			</traductor>
+		</lenguaje_no_original>
+		<tipo>
+			<novela> </novela>
+			<cuento> </cuento>
+			<poesia> </poesia>
+			<otros> </otros>
+		</tipo>	
 
 	</medio>
     
-    <medio naturaleza="texto" formato="libro, revista" version="original o copia">
+    <medio naturaleza="texto" formato="revista" version="copia">
 
 		<regalado>
 			<nombre> </nombre>
@@ -501,72 +469,37 @@
 			</fecha_regalo>
 		</regalado>
 
-		<libro> 
-			<fecha_publicacion>
-				<any> </any>
-			</fecha_publicacion>
-			<autor> 
-				<nombre> </nombre>
-				<apellido1> </apellido1>
-				<apellido2_opcional> </apellido2_opcional>
-			</autor>
-			<titulo> </titulo>
-			<subtitulo> </subtitulo>
-			<editorial> </editorial>
-			<numero_edicion> </numero_edicion>
-			<coleccion> </coleccion>
-			<numero> </numero>
-			<ciudad_publicacion> </ciudad_publicacion>
-			<lenguaje> </lenguaje>
-			<lenguaje_original> </lenguaje_original>
-			<lenguaje_no_original>
-				<traductor>
-					<nombre> </nombre>
-					<apellido1> </apellido1>
-					<apellido2_opcional_opcional> </apellido2_opcional_opcional>
-				</traductor>
-			</lenguaje_no_original>
-			<tipo>
-				<novela> </novela>
-				<cuento> </cuento>
-				<poesia> </poesia>
-				<otros> </otros>
-			</tipo>	
-		</libro>
-
-		<revista> 
-			<fecha_publicacion>
-				<mes> </mes>
-				<any> </any>
-			</fecha_publicacion>
-			<titulo> </titulo>
-			<subtitulo> </subtitulo>
-			<numero_ejemplar> </numero_ejemplar>
-			<editorial> </editorial>
-			<numero_edicion> </numero_edicion>
-			<ciudad_publicacion> </ciudad_publicacion>
-			<tipo>
-				<ciencia> </ciencia>
-				<tecnologia> </tecnologia>
-				<electronica> </electronica>
-				<informatica> </informatica>
-				<geografia> </geografia>
-				<historia> </historia>
-				<politica> </politica>
-				<economia> </economia>
-				<artes> </artes>
-				<arquitectura> </arquitectura>
-				<diseny> </diseny>
-				<musica> </musica>
-				<literatura> </literatura>
-				<cine> </cine>
-				<otros> </otros>
-			</tipo>
-		</revista>
+		<fecha_publicacion>
+			<mes> </mes>
+			<any> </any>
+		</fecha_publicacion>
+		<titulo> </titulo>
+		<subtitulo> </subtitulo>
+		<numero_ejemplar> </numero_ejemplar>
+		<editorial> </editorial>
+		<numero_edicion> </numero_edicion>
+		<ciudad_publicacion> </ciudad_publicacion>
+		<tipo>
+			<ciencia> </ciencia>
+			<tecnologia> </tecnologia>
+			<electronica> </electronica>
+			<informatica> </informatica>
+			<geografia> </geografia>
+			<historia> </historia>
+			<politica> </politica>
+			<economia> </economia>
+			<artes> </artes>
+			<arquitectura> </arquitectura>
+			<diseny> </diseny>
+			<musica> </musica>
+			<literatura> </literatura>
+			<cine> </cine>
+			<otros> </otros>
+		</tipo>
 
 	</medio>
     
-    <medio naturaleza="texto" formato="libro, revista" version="copia">
+    <medio naturaleza="texto" formato="libro" version="copia">
 
 		<copiado>
 			<fecha_copia> 
@@ -576,68 +509,36 @@
 			</fecha_copia>
 		</copiado>
 
-		<libro> 
-			<fecha_publicacion>
-				<any> </any>
-			</fecha_publicacion>
-			<autor> 
+		<fecha_publicacion>
+			<any> </any>
+		</fecha_publicacion>
+		<autor> 
+			<nombre> </nombre>
+			<apellido1> </apellido1>
+			<apellido2_opcional> </apellido2_opcional>
+		</autor>
+		<titulo> </titulo>
+		<subtitulo> </subtitulo>
+		<editorial> </editorial>
+		<numero_edicion> </numero_edicion>
+		<coleccion> </coleccion>
+		<numero> </numero>
+		<ciudad_publicacion> </ciudad_publicacion>
+		<lenguaje> </lenguaje>
+		<lenguaje_original> </lenguaje_original>
+		<lenguaje_no_original>
+			<traductor>
 				<nombre> </nombre>
 				<apellido1> </apellido1>
-				<apellido2_opcional> </apellido2_opcional>
-			</autor>
-			<titulo> </titulo>
-			<subtitulo> </subtitulo>
-			<editorial> </editorial>
-			<numero_edicion> </numero_edicion>
-			<coleccion> </coleccion>
-			<numero> </numero>
-			<ciudad_publicacion> </ciudad_publicacion>
-			<lenguaje> </lenguaje>
-			<lenguaje_original> </lenguaje_original>
-			<lenguaje_no_original>
-				<traductor>
-					<nombre> </nombre>
-					<apellido1> </apellido1>
-					<apellido2_opcional_opcional> </apellido2_opcional_opcional>
-				</traductor>
-			</lenguaje_no_original>
-			<tipo>
-				<novela> </novela>
-				<cuento> </cuento>
-				<poesia> </poesia>
-				<otros> </otros>
-			</tipo>	
-		</libro>
-
-		<revista> 
-			<fecha_publicacion>
-				<mes> </mes>
-				<any> </any>
-			</fecha_publicacion>
-			<titulo> </titulo>
-			<subtitulo> </subtitulo>
-			<numero_ejemplar> </numero_ejemplar>
-			<editorial> </editorial>
-			<numero_edicion> </numero_edicion>
-			<ciudad_publicacion> </ciudad_publicacion>
-			<tipo>
-				<ciencia> </ciencia>
-				<tecnologia> </tecnologia>
-				<electronica> </electronica>
-				<informatica> </informatica>
-				<geografia> </geografia>
-				<historia> </historia>
-				<politica> </politica>
-				<economia> </economia>
-				<artes> </artes>
-				<arquitectura> </arquitectura>
-				<diseny> </diseny>
-				<musica> </musica>
-				<literatura> </literatura>
-				<cine> </cine>
-				<otros> </otros>
-			</tipo>
-		</revista>
+				<apellido2_opcional_opcional> </apellido2_opcional_opcional>
+			</traductor>
+		</lenguaje_no_original>
+		<tipo>
+			<novela> </novela>
+			<cuento> </cuento>
+			<poesia> </poesia>
+			<otros> </otros>
+		</tipo>
 
 	</medio>
 	
