@@ -271,137 +271,143 @@
         
 	</medio>
     
-    <medio naturaleza="video" formato="vhs, dvd, blue-ray" version="original o copia">
+    <medio naturaleza="video" formato="dvd" version="original">
 
 		<regalado>
-			<nombre> </nombre>
-    		<apellido1> </apellido1>
-			<apellido2_opcional> </apellido2_opcional>
+			<nombre>Juan</nombre>
+    		<apellido1>Perez</apellido1>
+			<apellido2_opcional>Gomez</apellido2_opcional>
 			<fecha_regalo> 
-				<dia> </dia>
-				<mes> </mes>
-				<any> </any>
+				<dia>10</dia>
+				<mes>febrero</mes>
+				<any>2023</any>
 			</fecha_regalo>
 		</regalado>
 
-		<localizaciones_grabacion> </localizaciones_grabacion> 
-		<any_grabacion> </any_grabacion>
+		<localizaciones_grabacion>Hollywood</localizaciones_grabacion> 
+		<any_grabacion>2022</any_grabacion>
 		<director_filme>
-			<nombre> </nombre>
-			<apellido1> </apellido1>
-			<apellido2_opcional> </apellido2_opcional>	
+			<nombre>Christopher</nombre>
+			<apellido1>Nolan</apellido1>
+			<apellido2_opcional></apellido2_opcional>	
 		</director_filme>
 		<actor_principal_filme>
-			<nombre> </nombre>
-			<apellido1> </apellido1>
-			<apellido2_opcional> </apellido2_opcional>	
+			<nombre>Leonardo</nombre>
+			<apellido1>DiCaprio</apellido1>
+			<apellido2_opcional></apellido2_opcional>	
 		</actor_principal_filme>
 		<actriz_principal_filme>
-			<nombre> </nombre>
-			<apellido1> </apellido1>
-			<apellido2_opcional> </apellido2_opcional>	
+			<nombre>Marion</nombre>
+			<apellido1>Cotillard</apellido1>
+			<apellido2_opcional></apellido2_opcional>	
 		</actriz_principal_filme>
 		<actores_secundarios_filme>
-			<nombre> </nombre>
-			<apellido1> </apellido1>
-			<apellido2_opcional> </apellido2_opcional>	
+			<nombre>Joseph</nombre>
+			<apellido1>Gordon-Levitt</apellido1>
+			<apellido2_opcional></apellido2_opcional>	
 		</actores_secundarios_filme>
 		<compositor_banda_sonora_filme>
-			<nombre> </nombre>
-			<apellido1> </apellido1>
-			<apellido2_opcional> </apellido2_opcional>	
+			<nombre>Hans</nombre>
+			<apellido1>Zimmer</apellido1>
+			<apellido2_opcional></apellido2_opcional>	
 		</compositor_banda_sonora_filme>
 		<guionista_filme>
-			<nombre> </nombre>
-			<apellido1> </apellido1>
-			<apellido2_opcional> </apellido2_opcional>	
+			<nombre>Jonathan</nombre>
+			<apellido1>Nolan</apellido1>
+			<apellido2_opcional></apellido2_opcional>	
 		</guionista_filme>
 		<productor_filme>
-			<nombre> </nombre>
-			<apellido1> </apellido1>
-			<apellido2_opcional> </apellido2_opcional>	
+			<nombre>Emma</nombre>
+			<apellido1>Thomas</apellido1>
+			<apellido2_opcional></apellido2_opcional>	
 		</productor_filme>
-		<titulo_pelicula> </titulo_pelicula>
-		<lenguaje_original> </lenguaje_original>
+		<titulo_pelicula>Inception</titulo_pelicula>
+		<lenguaje_original>Ingles</lenguaje_original>
 		<lenguaje_doblajes>
-
+            <lengua>Espanyol</lengua>
+            <lengua>Frances</lengua>
 		</lenguaje_doblajes>
 
 		<categoria_dramatica>
-			<drama> </drama>
-			<comedia> </comedia>
-			<romantica> </romantica>
-			<aventuras> </aventuras>
-			<ciencia_ficcion> </ciencia_ficcion>
-			<terror> </terror>
-			<fantasia> </fantasia>
-			<psicologica_thriller> </psicologica_thriller>
+			<drama>si</drama>
+			<comedia>no</comedia>
+			<romantica>no</romantica>
+			<aventuras>no</aventuras>
+			<ciencia_ficcion>no</ciencia_ficcion>
+			<terror>no</terror>
+			<fantasia>no</fantasia>
+			<psicologica_thriller>no</psicologica_thriller>
 		</categoria_dramatica>
+        <indice>M/VID/DVD/ORG/00001</indice>
+        
 	</medio>
     
-    <medio naturaleza="video" formato="vhs, dvd, blue-ray" version="copia">
+    <medio naturaleza="video" formato="blue-ray" version="copia">
 
 		<copiado>
 			<fecha_copia> 
-				<dia> </dia>
-				<mes> </mes>
-				<any> </any>
+				<dia>25</dia>
+				<mes>octubre</mes>
+				<any>2022</any>
 			</fecha_copia>
 		</copiado>
 
-		<localizaciones_grabacion> </localizaciones_grabacion> 
-		<any_grabacion> </any_grabacion>
+		<localizaciones_grabacion>Crystal Lake</localizaciones_grabacion> 
+		<any_grabacion>1980</any_grabacion>
 		<director_filme>
-			<nombre> </nombre>
-			<apellido1> </apellido1>
-			<apellido2_opcional> </apellido2_opcional>	
+			<nombre>Sean</nombre>
+			<apellido1>Cunningham</apellido1>
+			<apellido2_opcional></apellido2_opcional>	
 		</director_filme>
 		<actor_principal_filme>
-			<nombre> </nombre>
-			<apellido1> </apellido1>
-			<apellido2_opcional> </apellido2_opcional>	
+			<nombre>Kevin</nombre>
+			<apellido1>Bacon</apellido1>
+			<apellido2_opcional></apellido2_opcional>	
 		</actor_principal_filme>
 		<actriz_principal_filme>
-			<nombre> </nombre>
-			<apellido1> </apellido1>
-			<apellido2_opcional> </apellido2_opcional>	
+			<nombre>Adrienne</nombre>
+			<apellido1>King</apellido1>
+			<apellido2_opcional></apellido2_opcional>	
 		</actriz_principal_filme>
 		<actores_secundarios_filme>
-			<nombre> </nombre>
-			<apellido1> </apellido1>
-			<apellido2_opcional> </apellido2_opcional>	
+			<nombre>Steve</nombre>
+			<apellido1>Miner</apellido1>
+			<apellido2_opcional></apellido2_opcional>	
 		</actores_secundarios_filme>
 		<compositor_banda_sonora_filme>
-			<nombre> </nombre>
-			<apellido1> </apellido1>
-			<apellido2_opcional> </apellido2_opcional>	
+			<nombre>Harry</nombre>
+			<apellido1>Manfredini</apellido1>
+			<apellido2_opcional></apellido2_opcional>	
 		</compositor_banda_sonora_filme>
 		<guionista_filme>
-			<nombre> </nombre>
-			<apellido1> </apellido1>
-			<apellido2_opcional> </apellido2_opcional>	
+			<nombre>Victor</nombre>
+			<apellido1>Miller</apellido1>
+			<apellido2_opcional></apellido2_opcional>	
 		</guionista_filme>
 		<productor_filme>
-			<nombre> </nombre>
-			<apellido1> </apellido1>
-			<apellido2_opcional> </apellido2_opcional>	
+			<nombre>Sean</nombre>
+			<apellido1>Cunningham</apellido1>
+			<apellido2_opcional></apellido2_opcional>	
 		</productor_filme>
-		<titulo_pelicula> </titulo_pelicula>
-		<lenguaje_original> </lenguaje_original>
+		<titulo_pelicula>Viernes 13</titulo_pelicula>
+		<lenguaje_original>Ingles</lenguaje_original>
 		<lenguaje_doblajes>
-
+            <lengua>Espanyol</lengua>
+            <lengua>Frances</lengua>
 		</lenguaje_doblajes>
 
 		<categoria_dramatica>
-			<drama> </drama>
-			<comedia> </comedia>
-			<romantica> </romantica>
-			<aventuras> </aventuras>
-			<ciencia_ficcion> </ciencia_ficcion>
-			<terror> </terror>
-			<fantasia> </fantasia>
-			<psicologica_thriller> </psicologica_thriller>
+			<drama>no</drama>
+			<comedia>no</comedia>
+			<romantica>no</romantica>
+			<aventuras>no</aventuras>
+			<ciencia_ficcion>no</ciencia_ficcion>
+			<terror>si</terror>
+			<fantasia>no</fantasia>
+			<psicologica_thriller>no</psicologica_thriller>
 		</categoria_dramatica>
+        <indice>M/VID/BRY/CPY/00000</indice>
+        
 	</medio>
 
 	<medio naturaleza="texto" formato="libro, revista" version="original">
