@@ -413,89 +413,82 @@
 	<medio naturaleza="texto" formato="libro" version="original">
 	
         <comprado>
-			<localidad> </localidad>
-    		<centro_comercial> </centro_comercial>
+			<localidad>Barcelona</localidad>
+    		<centro_comercial>Libreria El Sabio</centro_comercial>
 			<fecha_compra> 
-				<dia> </dia>
-				<mes> </mes>
-				<any> </any>
+				<dia>10</dia>
+				<mes>mayo</mes>
+				<any>2023</any>
 			</fecha_compra>
-			<precio> </precio>
+			<precio>25.99</precio>
 		</comprado>
 
 		<fecha_publicacion>
-			<any> </any>
+			<any>2020</any>
 		</fecha_publicacion>
 		<autor> 
-			<nombre> </nombre>
-			<apellido1> </apellido1>
-			<apellido2_opcional> </apellido2_opcional>
+			<nombre>Gabriel</nombre>
+			<apellido1>Garcia</apellido1>
+			<apellido2_opcional>Marquez</apellido2_opcional>
 		</autor>
-		<titulo> </titulo>
-		<subtitulo> </subtitulo>
-		<editorial> </editorial>
-		<numero_edicion> </numero_edicion>
-		<coleccion> </coleccion>
-		<numero> </numero>
-		<ciudad_publicacion> </ciudad_publicacion>
-		<lenguaje> </lenguaje>
-		<lenguaje_original> </lenguaje_original>
-		<lenguaje_no_original>
-			<traductor>
-				<nombre> </nombre>
-				<apellido1> </apellido1>
-				<apellido2_opcional_opcional> </apellido2_opcional_opcional>
-			</traductor>
-		</lenguaje_no_original>
+		<titulo>Cien anys de soledad</titulo>
+		<editorial>Debolsillo</editorial>
+		<numero_edicion>10</numero_edicion>
+		<coleccion>Clasicos Literarios</coleccion>
+		<numero>789</numero>
+		<ciudad_publicacion>Buenos Aires</ciudad_publicacion>
+		<lenguaje>Espanyol</lenguaje>
 		<tipo>
-			<novela> </novela>
-			<cuento> </cuento>
-			<poesia> </poesia>
-			<otros> </otros>
-		</tipo>	
+			<novela>si</novela>
+			<cuento>no</cuento>
+			<poesia>no</poesia>
+			<otros>no</otros>
+		</tipo>
+        <indice>M/TXT/LLB/ORG/00000</indice>
 
 	</medio>
     
     <medio naturaleza="texto" formato="revista" version="copia">
 
 		<regalado>
-			<nombre> </nombre>
-    		<apellido1> </apellido1>
-			<apellido2_opcional> </apellido2_opcional>
+			<nombre>Juan</nombre>
+    		<apellido1>Perez</apellido1>
+			<apellido2_opcional>Garcia</apellido2_opcional>
 			<fecha_regalo> 
-				<dia> </dia>
-				<mes> </mes>
-				<any> </any>
+				<dia>15</dia>
+				<mes>agosto</mes>
+				<any>2023</any>
 			</fecha_regalo>
 		</regalado>
 
 		<fecha_publicacion>
-			<mes> </mes>
-			<any> </any>
+			<mes>octubre</mes>
+			<any>2022</any>
 		</fecha_publicacion>
-		<titulo> </titulo>
-		<subtitulo> </subtitulo>
-		<numero_ejemplar> </numero_ejemplar>
-		<editorial> </editorial>
-		<numero_edicion> </numero_edicion>
-		<ciudad_publicacion> </ciudad_publicacion>
+		<titulo>Mi Revista</titulo>
+		<subtitulo>El mundo de la tecnologia</subtitulo>
+		<numero_ejemplar>123</numero_ejemplar>
+		<editorial>Editorial Innovacion</editorial>
+		<numero_edicion>5</numero_edicion>
+		<ciudad_publicacion>Madrid</ciudad_publicacion>
 		<tipo>
-			<ciencia> </ciencia>
-			<tecnologia> </tecnologia>
-			<electronica> </electronica>
-			<informatica> </informatica>
-			<geografia> </geografia>
-			<historia> </historia>
-			<politica> </politica>
-			<economia> </economia>
-			<artes> </artes>
-			<arquitectura> </arquitectura>
-			<diseny> </diseny>
-			<musica> </musica>
-			<literatura> </literatura>
-			<cine> </cine>
-			<otros> </otros>
+			<ciencia>no</ciencia>
+			<tecnologia>si</tecnologia>
+			<electronica>si</electronica>
+			<informatica>si</informatica>
+			<geografia>no</geografia>
+			<historia>no</historia>
+			<politica>no</politica>
+			<economia>no</economia>
+			<artes>no</artes>
+			<arquitectura>no</arquitectura>
+			<diseny>no</diseny>
+			<musica>no</musica>
+			<literatura>no</literatura>
+			<cine>no</cine>
+			<otros>no</otros>
 		</tipo>
+        <indice>M/TXT/RVT/CPY/00000</indice>
 
 	</medio>
     
@@ -503,42 +496,35 @@
 
 		<copiado>
 			<fecha_copia> 
-				<dia> </dia>
-				<mes> </mes>
-				<any> </any>
+				<dia>15</dia>
+				<mes>octubre</mes>
+				<any>2023</any>
 			</fecha_copia>
 		</copiado>
 
 		<fecha_publicacion>
-			<any> </any>
+			<any>2010</any>
 		</fecha_publicacion>
 		<autor> 
-			<nombre> </nombre>
-			<apellido1> </apellido1>
-			<apellido2_opcional> </apellido2_opcional>
+			<nombre>John</nombre>
+			<apellido1>Doe</apellido1>
+			<apellido2_opcional>Smith</apellido2_opcional>
 		</autor>
-		<titulo> </titulo>
-		<subtitulo> </subtitulo>
-		<editorial> </editorial>
-		<numero_edicion> </numero_edicion>
-		<coleccion> </coleccion>
-		<numero> </numero>
-		<ciudad_publicacion> </ciudad_publicacion>
-		<lenguaje> </lenguaje>
-		<lenguaje_original> </lenguaje_original>
-		<lenguaje_no_original>
-			<traductor>
-				<nombre> </nombre>
-				<apellido1> </apellido1>
-				<apellido2_opcional_opcional> </apellido2_opcional_opcional>
-			</traductor>
-		</lenguaje_no_original>
+		<titulo>El Misterio de la Noche</titulo>
+		<subtitulo>Una Aventura Sobrenatural</subtitulo>
+		<editorial>La Rueca</editorial>
+		<numero_edicion>3</numero_edicion>
+		<coleccion>Aventuras Misteriosas</coleccion>
+		<numero>12345</numero>
+		<ciudad_publicacion>Malaga</ciudad_publicacion>
+		<lenguaje>Espanyol</lenguaje>
 		<tipo>
-			<novela> </novela>
-			<cuento> </cuento>
-			<poesia> </poesia>
-			<otros> </otros>
+			<novela>si</novela>
+			<cuento>no</cuento>
+			<poesia>no</poesia>
+			<otros>no</otros>
 		</tipo>
+        <indice>M/TXT/LLB/CPY/00000</indice>
 
 	</medio>
 	
