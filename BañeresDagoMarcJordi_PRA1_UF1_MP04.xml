@@ -2,195 +2,273 @@
 
 <Coleccion_personal>
 
-	<medio naturaleza="audio" formato="disco, cassette, compact-disco" version="original">
+	<medio naturaleza="audio" formato="compact-disco" version="original">
 		
         <comprado>
-			<localidad> </localidad>
-    		<centro_comercial> </centro_comercial>
+			<localidad> Madrid </localidad>
+    		<centro_comercial>El Corte Ingles</centro_comercial>
 			<fecha_compra> 
-				<dia> </dia>
-				<mes> </mes>
-				<any> </any>
+				<dia>15</dia>
+				<mes>marzo</mes>
+				<any>2023</any>
 			</fecha_compra>
-			<precio> </precio>
+			<precio>20.00</precio>
 		</comprado>
 
-		<estudio_grabacion> </estudio_grabacion>
-		<any_grabacion> </any_grabacion>
+		<estudio_grabacion>Abbey Road Studios</estudio_grabacion>
+		<any_grabacion>1973</any_grabacion>
 		<interprete_grabacion> 
-			<nombre_artistico> </nombre_artistico>
+			<nombre_artistico>The Beatles</nombre_artistico>
 		</interprete_grabacion>
-		<titulo_disco> </titulo_disco>
-		<numero_pistas_disco> </numero_pistas_disco>
-		<titulo_pistas_disco> </titulo_pistas_disco>
-		<duracion_pistas_disco_en_segundos> </duracion_pistas_disco_en_segundos>
+		<titulo_disco>Dark Side of the Moon</titulo_disco>
+		<numero_pistas_disco>10</numero_pistas_disco>
+		<titulo_pistas_disco> 
+            <pista1>Breathe</pista1>
+            <pista2>Time</pista2>
+            <pista3>Money</pista3>
+            <pista4>Us and Them</pista4>
+            <pista5>Any Colour You Like</pista5>
+            <pista6>Brain Damage</pista6>
+            <pista7>Eclipse</pista7>
+            <pista8>The Great Gig in the Sky</pista8>
+            <pista9>On the Run</pista9>
+            <pista10>Speak to Me</pista10>
+        </titulo_pistas_disco>
+		<duracion_pistas_disco_en_segundos> 
+            <pista1>253</pista1>
+            <pista2>413</pista2>
+            <pista3>383</pista3>
+            <pista4>437</pista4>
+            <pista5>205</pista5>
+            <pista6>224</pista6>
+            <pista7>117</pista7>
+            <pista8>267</pista8>
+            <pista9>194</pista9>
+            <pista10>168</pista10>
+        </duracion_pistas_disco_en_segundos>
 		<estilo_musical_grabacion>
-			<antigua> </antigua>
-			<barroca> </barroca>
-			<clasica> </clasica>
-			<romantica> </romantica>
-			<contemporanea> </contemporanea>
-			<pop> </pop>
-			<rock> </rock>
-			<disco> </disco>
-			<funky> </funky>
-			<electronica> </electronica>
-			<reaggy> </reaggy>
-			<experimental> </experimental>
-			<folc> </folc>
-			<new-age> </new-age>
-			<otros> </otros>
+            <antigua>no</antigua>
+            <barroca>no</barroca>
+            <clasica>no</clasica>
+            <romantica>no</romantica>
+            <contemporanea>no</contemporanea>
+            <pop>no</pop>
+            <rock>si</rock>
+            <disco>no</disco>
+            <funky>no</funky>
+            <electronica>no</electronica>
+            <reggae>no</reggae>
+            <experimental>no</experimental>
+            <folk>no</folk>
+            <new-age>no</new-age>
+            <otros>no</otros>
 		</estilo_musical_grabacion>
+        <indice>M/AUD/CDA/ORG/00000</indice>
 
 	</medio>
     
-    <medio naturaleza="audio" formato="disco, cassette, compact-disco" version="original o copia">
+    <medio naturaleza="audio" formato="compact-disco" version="original">
 	
         <regalado>
-			<nombre> </nombre>
-    		<apellido1> </apellido1>
-			<apellido2_opcional> </apellido2_opcional>
+			<nombre>Maria</nombre>
+    		<apellido1>Gomez</apellido1>
+			<apellido2_opcional>Rodriguez</apellido2_opcional>
 			<fecha_regalo> 
-				<dia> </dia>
-				<mes> </mes>
-				<any> </any>
+				<dia>12</dia>
+				<mes>febrero</mes>
+				<any>2022</any>
 			</fecha_regalo>
 		</regalado>
 
-		<estudio_grabacion> </estudio_grabacion>
-		<any_grabacion> </any_grabacion>
+		<estudio_grabacion>Abbey Road Studios</estudio_grabacion>
+		<any_grabacion>1971</any_grabacion>
 		<interprete_grabacion> 
-			<nombre_artistico> </nombre_artistico>
+			<nombre_artistico>The Rolling Stones</nombre_artistico>
 		</interprete_grabacion>
-		<titulo_disco> </titulo_disco>
-		<numero_pistas_disco> </numero_pistas_disco>
-		<titulo_pistas_disco> </titulo_pistas_disco>
-		<duracion_pistas_disco_en_segundos> </duracion_pistas_disco_en_segundos>
+		<titulo_disco>Sticky Fingers</titulo_disco>
+		<numero_pistas_disco>10</numero_pistas_disco>
+		<titulo_pistas_disco>
+            <pista1>Brown Sugar</pista1>
+            <pista2>Sway</pista2>
+            <pista3>Wild Horses</pista3>
+            <pista4>Can't You Hear Me Knocking</pista4>
+            <pista5>You Gotta Move</pista5>
+            <pista6>Bitch</pista6>
+            <pista7>I Got the Blues</pista7>
+            <pista8>Sister Morphine</pista8>
+            <pista9>Dead Flowers</pista9>
+            <pista10>Moonlight Mile</pista10>
+        </titulo_pistas_disco>
+		<duracion_pistas_disco_en_segundos>
+            <pista1>214</pista1>
+            <pista2>240</pista2>
+            <pista3>339</pista3>
+            <pista4>451</pista4>
+            <pista5>274</pista5>
+            <pista6>243</pista6>
+            <pista7>296</pista7>
+            <pista8>326</pista8>
+            <pista9>243</pista9>
+            <pista10>275</pista10>
+        </duracion_pistas_disco_en_segundos>
 		<estilo_musical_grabacion>
-			<antigua> </antigua>
-			<barroca> </barroca>
-			<clasica> </clasica>
-			<romantica> </romantica>
-			<contemporanea> </contemporanea>
-			<pop> </pop>
-			<rock> </rock>
-			<disco> </disco>
-			<funky> </funky>
-			<electronica> </electronica>
-			<reaggy> </reaggy>
-			<experimental> </experimental>
-			<folc> </folc>
-			<new-age> </new-age>
-			<otros> </otros>
+            <antigua>no</antigua>
+            <barroca>no</barroca>
+            <clasica>no</clasica>
+            <romantica>no</romantica>
+            <contemporanea>no</contemporanea>
+            <pop>no</pop>
+            <rock>si</rock>
+            <disco>no</disco>
+            <funky>no</funky>
+            <electronica>no</electronica>
+            <reaggy>no</reaggy>
+            <experimental>no</experimental>
+            <folc>no</folc>
+            <new-age>no</new-age>
+            <otros>no</otros>
 		</estilo_musical_grabacion>
+        <indice>M/AUD/CDA/ORG/00001</indice>
 
 	</medio>
     
-     <medio naturaleza="audio" formato="disco, cassette, compact-disco" version="copia">
+     <medio naturaleza="audio" formato="disco" version="copia">
 	
 		<copiado>
 			<fecha_copia> 
-				<dia> </dia>
-				<mes> </mes>
-				<any> </any>
+				<dia>05</dia>
+				<mes>junio</mes>
+				<any>2022</any>
 			</fecha_copia>
 		</copiado>
 
-		<estudio_grabacion> </estudio_grabacion>
-		<any_grabacion> </any_grabacion>
+		<estudio_grabacion>Abbey Road Studios</estudio_grabacion>
+		<any_grabacion>1967</any_grabacion>
 		<interprete_grabacion> 
-			<nombre_artistico> </nombre_artistico>
+			<nombre_artistico>The Beatles</nombre_artistico>
 		</interprete_grabacion>
-		<titulo_disco> </titulo_disco>
-		<numero_pistas_disco> </numero_pistas_disco>
-		<titulo_pistas_disco> </titulo_pistas_disco>
-		<duracion_pistas_disco_en_segundos> </duracion_pistas_disco_en_segundos>
+		<titulo_disco>Sgt. Pepper's Lonely Hearts Club Band</titulo_disco>
+		<numero_pistas_disco>13</numero_pistas_disco>
+		<titulo_pistas_disco>
+            <pista1>Sgt. Pepper's Lonely Hearts Club Band</pista1>
+            <pista2>With a Little Help from My Friends</pista2>
+            <pista3>Lucy in the Sky with Diamonds</pista3>
+            <pista4>Getting Better</pista4>
+            <pista5>Fixing a Hole</pista5>
+            <pista6>She's Leaving Home</pista6>
+            <pista7>Being for the Benefit of Mr. Kite!</pista7>
+            <pista8>Within You Without You</pista8>
+            <pista9>When I'm Sixty-Four</pista9>
+            <pista10>Lovely Rita</pista10>
+            <pista11>Good Morning Good Morning</pista11>
+            <pista12>Sgt. Pepper's Lonely Hearts Club Band (Reprise)</pista12>
+            <pista13>A Day in the Life</pista13>
+        </titulo_pistas_disco>
+		<duracion_pistas_disco_en_segundos>
+            <pista1>122</pista1>
+            <pista2>146</pista2>
+            <pista3>237</pista3>
+            <pista4>152</pista4>
+            <pista5>123</pista5>
+            <pista6>170</pista6>
+            <pista7>154</pista7>
+            <pista8>345</pista8>
+            <pista9>104</pista9>
+            <pista10>177</pista10>
+            <pista11>189</pista11>
+            <pista12>76</pista12>
+            <pista13>346</pista13>
+        </duracion_pistas_disco_en_segundos>
 		<estilo_musical_grabacion>
-			<antigua> </antigua>
-			<barroca> </barroca>
-			<clasica> </clasica>
-			<romantica> </romantica>
-			<contemporanea> </contemporanea>
-			<pop> </pop>
-			<rock> </rock>
-			<disco> </disco>
-			<funky> </funky>
-			<electronica> </electronica>
-			<reaggy> </reaggy>
-			<experimental> </experimental>
-			<folc> </folc>
-			<new-age> </new-age>
-			<otros> </otros>
+            <antigua>no</antigua>
+            <barroca>no</barroca>
+            <clasica>no</clasica>
+            <romantica>no</romantica>
+            <contemporanea>no</contemporanea>
+            <pop>si</pop>
+            <rock>no</rock>
+            <disco>no</disco>
+            <funky>no</funky>
+            <electronica>no</electronica>
+            <reggae>no</reggae>
+            <experimental>no</experimental>
+            <folc>no</folc>
+            <new-age>no</new-age>
+            <otros>no</otros>
 		</estilo_musical_grabacion>
+        <indice>M/AUD/DSC/CPY/00000</indice>
 
 	</medio>
 
-	<medio naturaleza="video" formato="vhs, dvd, blue-ray" version="original">
+	<medio naturaleza="video" formato="dvd" version="original">
 		
         <comprado>
-			<localidad> </localidad>
-    		<centro_comercial> </centro_comercial>
+			<localidad>New York</localidad>
+    		<centro_comercial>Best Buy</centro_comercial>
 			<fecha_compra> 
-				<dia> </dia>
-				<mes> </mes>
-				<any> </any>
+				<dia>20</dia>
+				<mes>septiembre</mes>
+				<any>2023</any>
 			</fecha_compra>
-			<precio> </precio>
+			<precio>14.99</precio>
 		</comprado>
 
-		<localizaciones_grabacion> </localizaciones_grabacion> 
-		<any_grabacion> </any_grabacion>
+		<localizaciones_grabacion>Los Angeles</localizaciones_grabacion> 
+		<any_grabacion>2021</any_grabacion>
 		<director_filme>
-			<nombre> </nombre>
-			<apellido1> </apellido1>
-			<apellido2_opcional> </apellido2_opcional>	
+			<nombre>Steven</nombre>
+			<apellido1>Spielberg</apellido1>
+			<apellido2_opcional></apellido2_opcional>
 		</director_filme>
 		<actor_principal_filme>
-			<nombre> </nombre>
-			<apellido1> </apellido1>
-			<apellido2_opcional> </apellido2_opcional>	
+			<nombre>Tom</nombre>
+			<apellido1>Hanks</apellido1>
+			<apellido2_opcional></apellido2_opcional>	
 		</actor_principal_filme>
 		<actriz_principal_filme>
-			<nombre> </nombre>
-			<apellido1> </apellido1>
-			<apellido2_opcional> </apellido2_opcional>	
+			<nombre>Julia</nombre>
+			<apellido1>Roberts</apellido1>
+			<apellido2_opcional></apellido2_opcional>	
 		</actriz_principal_filme>
 		<actores_secundarios_filme>
-			<nombre> </nombre>
-			<apellido1> </apellido1>
-			<apellido2_opcional> </apellido2_opcional>	
+			<nombre>Morgan</nombre>
+			<apellido1>Freeman</apellido1>
+			<apellido2_opcional></apellido2_opcional>	
 		</actores_secundarios_filme>
 		<compositor_banda_sonora_filme>
-			<nombre> </nombre>
-			<apellido1> </apellido1>
-			<apellido2_opcional> </apellido2_opcional>	
+			<nombre>John</nombre>
+			<apellido1>Williams</apellido1>
+			<apellido2_opcional></apellido2_opcional>	
 		</compositor_banda_sonora_filme>
 		<guionista_filme>
-			<nombre> </nombre>
-			<apellido1> </apellido1>
-			<apellido2_opcional> </apellido2_opcional>	
+			<nombre>Quentin</nombre>
+			<apellido1>Tarantino</apellido1>
+			<apellido2_opcional></apellido2_opcional>	
 		</guionista_filme>
 		<productor_filme>
-			<nombre> </nombre>
-			<apellido1> </apellido1>
-			<apellido2_opcional> </apellido2_opcional>	
+			<nombre>George</nombre>
+			<apellido1>Lucas</apellido1>
+			<apellido2_opcional></apellido2_opcional>	
 		</productor_filme>
-		<titulo_pelicula> </titulo_pelicula>
-		<lenguaje_original> </lenguaje_original>
+		<titulo_pelicula>Saving Private Ryan</titulo_pelicula>
+		<lenguaje_original>Ingles</lenguaje_original>
 		<lenguaje_doblajes>
-
+            <lengua>Espanyol</lengua>
+            <lengua>Frances</lengua>
 		</lenguaje_doblajes>
 
 		<categoria_dramatica>
-			<drama> </drama>
-			<comedia> </comedia>
-			<romantica> </romantica>
-			<aventuras> </aventuras>
-			<ciencia_ficcion> </ciencia_ficcion>
-			<terror> </terror>
-			<fantasia> </fantasia>
-			<psicologica_thriller> </psicologica_thriller>
+			<drama>si</drama>
+			<comedia>no</comedia>
+			<romantica>no</romantica>
+			<aventuras>no</aventuras>
+			<ciencia_ficcion>no</ciencia_ficcion>
+			<terror>no</terror>
+			<fantasia>no</fantasia>
+			<psicologica_thriller>no</psicologica_thriller>
 		</categoria_dramatica>
+        <indice>M/VID/DVD/ORG/00000</indice>
+        
 	</medio>
     
     <medio naturaleza="video" formato="vhs, dvd, blue-ray" version="original o copia">
