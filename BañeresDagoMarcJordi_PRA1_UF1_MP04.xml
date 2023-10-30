@@ -46,23 +46,7 @@
             <pista9>194</pista9>
             <pista10>168</pista10>
         </duracion_pistas_disco_en_segundos>
-		<estilo_musical_grabacion>
-            <antigua>no</antigua>
-            <barroca>no</barroca>
-            <clasica>no</clasica>
-            <romantica>no</romantica>
-            <contemporanea>no</contemporanea>
-            <pop>no</pop>
-            <rock>si</rock>
-            <disco>no</disco>
-            <funky>no</funky>
-            <electronica>no</electronica>
-            <reggae>no</reggae>
-            <experimental>no</experimental>
-            <folk>no</folk>
-            <new-age>no</new-age>
-            <otros>no</otros>
-		</estilo_musical_grabacion>
+		<estilo_musical_grabacion>rock</estilo_musical_grabacion>
         <indice>M/AUD/CDA/ORG/00000</indice>
 
 	</medio>
@@ -111,23 +95,7 @@
             <pista9>243</pista9>
             <pista10>275</pista10>
         </duracion_pistas_disco_en_segundos>
-		<estilo_musical_grabacion>
-            <antigua>no</antigua>
-            <barroca>no</barroca>
-            <clasica>no</clasica>
-            <romantica>no</romantica>
-            <contemporanea>no</contemporanea>
-            <pop>no</pop>
-            <rock>si</rock>
-            <disco>no</disco>
-            <funky>no</funky>
-            <electronica>no</electronica>
-            <reaggy>no</reaggy>
-            <experimental>no</experimental>
-            <folc>no</folc>
-            <new-age>no</new-age>
-            <otros>no</otros>
-		</estilo_musical_grabacion>
+		<estilo_musical_grabacion>rock</estilo_musical_grabacion>
         <indice>M/AUD/CDA/ORG/00001</indice>
 
 	</medio>
@@ -179,23 +147,7 @@
             <pista12>76</pista12>
             <pista13>346</pista13>
         </duracion_pistas_disco_en_segundos>
-		<estilo_musical_grabacion>
-            <antigua>no</antigua>
-            <barroca>no</barroca>
-            <clasica>no</clasica>
-            <romantica>no</romantica>
-            <contemporanea>no</contemporanea>
-            <pop>si</pop>
-            <rock>no</rock>
-            <disco>no</disco>
-            <funky>no</funky>
-            <electronica>no</electronica>
-            <reggae>no</reggae>
-            <experimental>no</experimental>
-            <folc>no</folc>
-            <new-age>no</new-age>
-            <otros>no</otros>
-		</estilo_musical_grabacion>
+		<estilo_musical_grabacion>pop</estilo_musical_grabacion>
         <indice>M/AUD/DSC/CPY/00000</indice>
 
 	</medio>
@@ -256,17 +208,7 @@
             <lengua>Espanyol</lengua>
             <lengua>Frances</lengua>
 		</lenguaje_doblajes>
-
-		<categoria_dramatica>
-			<drama>si</drama>
-			<comedia>no</comedia>
-			<romantica>no</romantica>
-			<aventuras>no</aventuras>
-			<ciencia_ficcion>no</ciencia_ficcion>
-			<terror>no</terror>
-			<fantasia>no</fantasia>
-			<psicologica_thriller>no</psicologica_thriller>
-		</categoria_dramatica>
+		<categoria_dramatica>drama</categoria_dramatica>
         <indice>M/VID/DVD/ORG/00000</indice>
         
 	</medio>
@@ -327,17 +269,7 @@
             <lengua>Espanyol</lengua>
             <lengua>Frances</lengua>
 		</lenguaje_doblajes>
-
-		<categoria_dramatica>
-			<drama>si</drama>
-			<comedia>no</comedia>
-			<romantica>no</romantica>
-			<aventuras>no</aventuras>
-			<ciencia_ficcion>no</ciencia_ficcion>
-			<terror>no</terror>
-			<fantasia>no</fantasia>
-			<psicologica_thriller>no</psicologica_thriller>
-		</categoria_dramatica>
+		<categoria_dramatica>drama</categoria_dramatica>
         <indice>M/VID/DVD/ORG/00001</indice>
         
 	</medio>
@@ -396,16 +328,7 @@
             <lengua>Frances</lengua>
 		</lenguaje_doblajes>
 
-		<categoria_dramatica>
-			<drama>no</drama>
-			<comedia>no</comedia>
-			<romantica>no</romantica>
-			<aventuras>no</aventuras>
-			<ciencia_ficcion>no</ciencia_ficcion>
-			<terror>si</terror>
-			<fantasia>no</fantasia>
-			<psicologica_thriller>no</psicologica_thriller>
-		</categoria_dramatica>
+		<categoria_dramatica>terror</categoria_dramatica>
         <indice>M/VID/BRY/CPY/00000</indice>
         
 	</medio>
@@ -438,12 +361,7 @@
 		<numero>789</numero>
 		<ciudad_publicacion>Buenos Aires</ciudad_publicacion>
 		<lenguaje>Espanyol</lenguaje>
-		<tipo>
-			<novela>si</novela>
-			<cuento>no</cuento>
-			<poesia>no</poesia>
-			<otros>no</otros>
-		</tipo>
+		<tipo>novela</tipo>
         <indice>M/TXT/LLB/ORG/00000</indice>
 
 	</medio>
@@ -471,23 +389,7 @@
 		<editorial>Editorial Innovacion</editorial>
 		<numero_edicion>5</numero_edicion>
 		<ciudad_publicacion>Madrid</ciudad_publicacion>
-		<tipo>
-			<ciencia>no</ciencia>
-			<tecnologia>si</tecnologia>
-			<electronica>si</electronica>
-			<informatica>si</informatica>
-			<geografia>no</geografia>
-			<historia>no</historia>
-			<politica>no</politica>
-			<economia>no</economia>
-			<artes>no</artes>
-			<arquitectura>no</arquitectura>
-			<diseny>no</diseny>
-			<musica>no</musica>
-			<literatura>no</literatura>
-			<cine>no</cine>
-			<otros>no</otros>
-		</tipo>
+		<tipo>tecnologia, electronica, informatica</tipo>
         <indice>M/TXT/RVT/CPY/00000</indice>
 
 	</medio>
@@ -518,12 +420,7 @@
 		<numero>12345</numero>
 		<ciudad_publicacion>Malaga</ciudad_publicacion>
 		<lenguaje>Espanyol</lenguaje>
-		<tipo>
-			<novela>si</novela>
-			<cuento>no</cuento>
-			<poesia>no</poesia>
-			<otros>no</otros>
-		</tipo>
+		<tipo>novela</tipo>
         <indice>M/TXT/LLB/CPY/00000</indice>
 
 	</medio>
@@ -544,16 +441,7 @@
 		<fecha_salida_any>2015</fecha_salida_any>
 		<empresa>Microsoft</empresa>
 		<titulo_version>Windows 10 22H2</titulo_version>
-		<tipo>
-			<sistema_operativo>si</sistema_operativo>
-			<compilador>no</compilador>
-			<interprete>no</interprete>
-			<base_de_datos>no</base_de_datos>
-			<paquete_ofimatico>no</paquete_ofimatico>
-			<paquete_de_utilidades>no</paquete_de_utilidades>
-			<videojuego>no</videojuego>
-			<otros>no</otros>
-		</tipo>
+		<tipo>sistema_operativo</tipo>
         <indice>M/PRG/DVP/ORG/00000</indice>
         
 	</medio>
@@ -574,16 +462,7 @@
 		<fecha_salida_any>2008</fecha_salida_any>
 		<empresa>Electronic Arts</empresa>
 		<titulo_version>Spore 1.05.1000</titulo_version>
-		<tipo>
-			<sistema_operativo>no</sistema_operativo>
-			<compilador>no</compilador>
-			<interprete>no</interprete>
-			<base_de_datos>no</base_de_datos>
-			<paquete_ofimatico>no</paquete_ofimatico>
-			<paquete_de_utilidades>no</paquete_de_utilidades>
-			<videojuego>si</videojuego>
-			<otros>no</otros>
-		</tipo>
+		<tipo>videojuego</tipo>
         <indice>M/PRG/DVP/CPY/00000</indice>
         
 	</medio>
@@ -601,16 +480,7 @@
 		<fecha_salida_any>2013</fecha_salida_any>
 		<empresa>Capcom</empresa>
 		<titulo_version>Monster Hunter 3 Ultimate Wii U</titulo_version>
-		<tipo>
-			<sistema_operativo>no</sistema_operativo>
-			<compilador>no</compilador>
-			<interprete>no</interprete>
-			<base_de_datos>no</base_de_datos>
-			<paquete_ofimatico>no</paquete_ofimatico>
-			<paquete_de_utilidades>no</paquete_de_utilidades>
-			<videojuego>si</videojuego>
-			<otros>no</otros>
-		</tipo>
+		<tipo>videojuego</tipo>
         <indice>M/PRG/DVP/CPY/00001</indice>
         
 	</medio>
