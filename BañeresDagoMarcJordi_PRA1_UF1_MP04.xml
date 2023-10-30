@@ -528,85 +528,91 @@
 
 	</medio>
 	
-	<medio naturaleza="software" formato="disquette, compact-disco, dvd" version="original">
+	<medio naturaleza="software" formato="dvd" version="original">
 		
         <comprado>
-			<localidad> </localidad>
-    		<centro_comercial> </centro_comercial>
+			<localidad>Barcelona</localidad>
+    		<centro_comercial>MediaMarkt</centro_comercial>
 			<fecha_compra> 
-				<dia> </dia>
-				<mes> </mes>
-				<any> </any>
+				<dia>05</dia>
+				<mes>junio</mes>
+				<any>2023</any>
 			</fecha_compra>
-			<precio> </precio>
+			<precio>41.25</precio>
 		</comprado>
 
-		<fecha_salida_any> </fecha_salida_any>
-		<empresa> </empresa>
-		<titulo_version> </titulo_version>
+		<fecha_salida_any>2015</fecha_salida_any>
+		<empresa>Microsoft</empresa>
+		<titulo_version>Windows 10 22H2</titulo_version>
 		<tipo>
-			<sistema_operativo> </sistema_operativo>
-			<compilador> </compilador>
-			<interprete> </interprete>
-			<base_de_datos> </base_de_datos>
-			<paquete_ofimatico> </paquete_ofimatico>
-			<paquete_de_utilidades> </paquete_de_utilidades>
-			<videojuego> </videojuego>
-			<otros> </otros>
+			<sistema_operativo>si</sistema_operativo>
+			<compilador>no</compilador>
+			<interprete>no</interprete>
+			<base_de_datos>no</base_de_datos>
+			<paquete_ofimatico>no</paquete_ofimatico>
+			<paquete_de_utilidades>no</paquete_de_utilidades>
+			<videojuego>no</videojuego>
+			<otros>no</otros>
 		</tipo>
+        <indice>M/PRG/DVP/ORG/00000</indice>
+        
 	</medio>
     
-    <medio naturaleza="software" formato="disquette, compact-disco, dvd" version="original o copia">
+    <medio naturaleza="software" formato="dvd" version="copia">
 
 		<regalado>
-			<nombre> </nombre>
-    		<apellido1> </apellido1>
-			<apellido2_opcional> </apellido2_opcional>
+			<nombre>Carlos</nombre>
+    		<apellido1>Gomez</apellido1>
+			<apellido2_opcional>Rodriguez</apellido2_opcional>
 			<fecha_regalo> 
-				<dia> </dia>
-				<mes> </mes>
-				<any> </any>
+				<dia>5</dia>
+				<mes>junio</mes>
+				<any>2022</any>
 			</fecha_regalo>
 		</regalado>
 
-		<fecha_salida_any> </fecha_salida_any>
-		<empresa> </empresa>
-		<titulo_version> </titulo_version>
+		<fecha_salida_any>2008</fecha_salida_any>
+		<empresa>Electronic Arts</empresa>
+		<titulo_version>Spore 1.05.1000</titulo_version>
 		<tipo>
-			<sistema_operativo> </sistema_operativo>
-			<compilador> </compilador>
-			<interprete> </interprete>
-			<base_de_datos> </base_de_datos>
-			<paquete_ofimatico> </paquete_ofimatico>
-			<paquete_de_utilidades> </paquete_de_utilidades>
-			<videojuego> </videojuego>
-			<otros> </otros>
+			<sistema_operativo>no</sistema_operativo>
+			<compilador>no</compilador>
+			<interprete>no</interprete>
+			<base_de_datos>no</base_de_datos>
+			<paquete_ofimatico>no</paquete_ofimatico>
+			<paquete_de_utilidades>no</paquete_de_utilidades>
+			<videojuego>si</videojuego>
+			<otros>no</otros>
 		</tipo>
+        <indice>M/PRG/DVP/CPY/00000</indice>
+        
 	</medio>
     
-    <medio naturaleza="software" formato="disquette, compact-disco, dvd" version="copia">
+    <medio naturaleza="software" formato="dvd" version="copia">
 
 		<copiado>
 			<fecha_copia> 
-				<dia> </dia>
-				<mes> </mes>
-				<any> </any>
+				<dia>15</dia>
+				<mes>noviembre</mes>
+				<any>2020</any>
 			</fecha_copia>
 		</copiado>
 
-		<fecha_salida_any> </fecha_salida_any>
-		<empresa> </empresa>
-		<titulo_version> </titulo_version>
+		<fecha_salida_any>2013</fecha_salida_any>
+		<empresa>Capcom</empresa>
+		<titulo_version>Monster Hunter 3 Ultimate Wii U</titulo_version>
 		<tipo>
-			<sistema_operativo> </sistema_operativo>
-			<compilador> </compilador>
-			<interprete> </interprete>
-			<base_de_datos> </base_de_datos>
-			<paquete_ofimatico> </paquete_ofimatico>
-			<paquete_de_utilidades> </paquete_de_utilidades>
-			<videojuego> </videojuego>
-			<otros> </otros>
+			<sistema_operativo>no</sistema_operativo>
+			<compilador>no</compilador>
+			<interprete>no</interprete>
+			<base_de_datos>no</base_de_datos>
+			<paquete_ofimatico>no</paquete_ofimatico>
+			<paquete_de_utilidades>no</paquete_de_utilidades>
+			<videojuego>si</videojuego>
+			<otros>no</otros>
 		</tipo>
+        <indice>M/PRG/DVP/CPY/00001</indice>
+        
 	</medio>
 
 </Coleccion_personal>
